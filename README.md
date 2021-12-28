@@ -1,4 +1,5 @@
 # time-tracker
 Java (Maven) application for tracking time on the job
 
-Time tracker
+## Purpose
+Adding text in local in new branch
